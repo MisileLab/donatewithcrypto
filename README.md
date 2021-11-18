@@ -15,4 +15,4 @@ Cosmos : cosmos15spq9y74x4wjsn0djvcv8srzr27sxdw96gzegc
 Tezos : tz1asxJkCtn9vaT5kKkwJwZjHb7nLb54G48g   
 Eos : Discord Message cause EOS address change per transaction   
 NEM : NCSPR5TTYOAISGV4TTRRPGEDFPSCBALE2JEAWRL2   
-If you want other address, send discord message to Misile#1231   
+If you want other address, make github issue in this repo.
