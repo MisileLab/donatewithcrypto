@@ -16,3 +16,6 @@ Tezos : tz1asxJkCtn9vaT5kKkwJwZjHb7nLb54G48g
 Eos : Discord Message cause EOS address change per transaction   
 NEM : NCSPR5TTYOAISGV4TTRRPGEDFPSCBALE2JEAWRL2   
 If you want other address, make github issue in this repo.
+
+# Donate me with other payment
+[toss](https://toss.me/misile)
