@@ -1,5 +1,7 @@
-# Donate me With Crypto
+# Donate me
 Use Ctrl+F for search
+
+[toss](https://toss.me/misile)
 
 Bitcoin : bc1qv09hlq22y7f4du3t3m0mg98ms8djvvfe6asrpm   
 Ethereum : 0xc1339Be583c7FD4Ba92e7Eb91BB08357f60831a4   
@@ -16,6 +18,3 @@ Tezos : tz1asxJkCtn9vaT5kKkwJwZjHb7nLb54G48g
 Eos : Discord Message cause EOS address change per transaction   
 NEM : NCSPR5TTYOAISGV4TTRRPGEDFPSCBALE2JEAWRL2   
 If you want other address, make github issue in this repo.
-
-# Donate me with other payment
-[toss](https://toss.me/misile)
